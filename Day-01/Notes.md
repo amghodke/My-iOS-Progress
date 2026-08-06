@@ -1,0 +1,6 @@
+-ARC
+-Struct vs Class
+-Weak vs Strong
+-Closures
+-Things you learned
+-Things you found confusing
